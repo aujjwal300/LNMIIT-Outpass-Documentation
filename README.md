@@ -2,7 +2,7 @@
 
 Student centric App for seamless outpass requests & permission in college hostels.\
 4 Users - Student, Caretakers, Gatekeeper and Admin.
-<img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/c60616e0-69f4-4380-bdef-8a058ab6ffc9" alt="HomePage" width="300" height="200">
+<img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/c60616e0-69f4-4380-bdef-8a058ab6ffc9" alt="HomePage" width="100">
 
 ![HomePage](| width=30)
 
