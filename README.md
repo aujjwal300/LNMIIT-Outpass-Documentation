@@ -14,6 +14,8 @@ Students can easily request & check their outpasses and have hostel staff contac
 <img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/b09fac78-0a06-4f77-9027-c91b7ff1565f" alt="ProfilePage" width="200">
 <img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/e3bd6405-4228-4515-bf6c-035d4cd419ef" alt="ContactUsPage" width="200">
 
+![Screenshot 2023-08-10 101517](https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/d5508387-33cc-46cf-8a81-8b6f555cf088)
+![DisapproveOutpass](https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/d777957d-2bce-4895-8e32-4e6be8757f50)
 
 
 ## Caretaker
