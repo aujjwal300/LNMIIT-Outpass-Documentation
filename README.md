@@ -30,6 +30,7 @@ Caretakers can approve, disapprove, or initiate discussions on outpass requests.
 
 ## Gatekeeper
 Gatekeeper scans the QR Code on the approved outpass to validate outpass.
+
 <img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/48e975c6-a7ab-497a-886d-8c8da54e2cb6" alt="GatekeeperHomePage" width="200">
 
 ## Admin 
