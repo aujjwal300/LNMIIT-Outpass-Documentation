@@ -25,10 +25,12 @@ Caretakers can approve, disapprove, or initiate discussions on outpass requests.
 <img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/1ff8562b-af2c-41a7-af09-e72741221ea7" alt="ReportsPage" width="200">
 <img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/0e2de140-48f0-47f1-a00f-42d324a8f82f" alt="DownloadingReport" width="200">
 <img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/19e55b22-bd68-4c46-8698-76b14666f745" alt="EditDetailPage" width="200">
+<img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/80d3a2ef-4d7a-4af8-957a-a511015fc331" alt="EditDetailPage(Details)" width="200">
 
 
 ## Gatekeeper
 Gatekeeper scans the QR Code on the approved outpass to validate outpass.
+<img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/48e975c6-a7ab-497a-886d-8c8da54e2cb6" alt="GatekeeperHomePage" width="200">
 
 ## Admin 
 Admin can see outpass requests and download reports.
