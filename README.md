@@ -20,6 +20,13 @@ Students can easily request & check their outpasses and have hostel staff contac
 ## Caretaker
 Caretakers can approve, disapprove, or initiate discussions on outpass requests. Can also update student details, add details of new students, and generate reports of past outpasses.
 
+<img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/1d16fa3b-c256-4d8d-849f-382bd52db2d6" alt="OutpassRequestsPage" width="200">
+<img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/2c08905f-3c26-4274-bd7b-4b09938c9a87" alt="DisapprovingOutpass" width="200">
+<img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/1ff8562b-af2c-41a7-af09-e72741221ea7" alt="ReportsPage" width="200">
+<img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/0e2de140-48f0-47f1-a00f-42d324a8f82f" alt="DownloadingReport" width="200">
+<img src = "https://github.com/aujjwal300/LNMIIT-Outpass-Documentation/assets/77393707/19e55b22-bd68-4c46-8698-76b14666f745" alt="EditDetailPage" width="200">
+
+
 ## Gatekeeper
 Gatekeeper scans the QR Code on the approved outpass to validate outpass.
 
