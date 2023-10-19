@@ -1,5 +1,7 @@
 # LNMIIT Outpass App
 
+## Google Play Store Link - https://play.google.com/store/apps/details?id=com.lnmoutpassapp
+
 Student centric App for seamless outpass requests & permission in college hostels.\
 4 Users - Student, Caretakers, Gatekeeper and Admin.
 
